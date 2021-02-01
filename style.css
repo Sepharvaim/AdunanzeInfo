@@ -1,0 +1,30 @@
+body {
+  width: 100wh;
+  height: 100vh;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  height: 100vh;
+  /* background: lightpink; */
+}
+#header {
+  text-align: center;
+  padding: 10px;
+  font-size: 2em;
+}
+table {
+  /* display: block; */
+  margin: 0 auto;
+  width: 90%;
+  border-collapse: collapse;
+  text-align: right;
+}
+td,
+th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+}
+tbody tr:nth-child(odd) {
+  background-color: lightblue;
+}
