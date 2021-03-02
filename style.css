@@ -6,7 +6,6 @@ body {
   width: 100%;
   margin: 0 auto;
   height: 100vh;
-  /* background: lightpink; */
 }
 #header {
   text-align: center;
@@ -14,7 +13,6 @@ body {
   font-size: 2em;
 }
 table {
-  /* display: block; */
   margin: 0 auto;
   width: 90%;
   border-collapse: collapse;
@@ -28,3 +26,9 @@ th {
 tbody tr:nth-child(odd) {
   background-color: lightblue;
 }
+.conteggio {
+  display: block;
+  text-align: center;
+  /* margin: 0 auto; */
+}
+
