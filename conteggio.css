@@ -1,6 +1,11 @@
+html {
+    margin: 0;
+    padding: 0;
+}
 * {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
+            
 }
 .container {
     width: 100wh;
@@ -45,8 +50,10 @@ input[type=checkbox] {
     height: 20px;
 }
 .header {
-    width: 100%;
+    /* width: 100%; */
     top: 0;
+    left: 0;
+    right: 0;
     background-color: #72abaf;
     margin-bottom: 5px;
     position: fixed;
