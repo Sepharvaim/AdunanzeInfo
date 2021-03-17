@@ -76,9 +76,14 @@ listaFratelli = [
     'Proietti Annalisa',
     'Gagliarducci Simone',
     'Gagliarducci Bruna',
-    'Gagliarducci Pauline?',
+    'Gagliarducci Pauline',
     'Martucci Mafalda?',
-    'Liliana'
+    'Liliana',
+    'Fernandez Gloria',
+    'Oliva Antonella',
+    'Sita',
+    'Montiero Lidia',
+    'Marco Liberati'
 ]
 let conteggio = 0;
 listaFratelli.sort();
